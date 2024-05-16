@@ -1,0 +1,3 @@
+[submodule "sys-apps"]
+	path = sys-apps
+	url = https://github.com/HoneyOS-Foundation/sys-apps.git

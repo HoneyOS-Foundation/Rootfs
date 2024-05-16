@@ -1,0 +1,2 @@
+# Rootfs
+The honeyos rootfs

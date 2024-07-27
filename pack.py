@@ -10,7 +10,7 @@ import os
 temp = tempfile.TemporaryDirectory()
 
 print("Creating the root directories")
-shutil.copytree("rootfs", temp.name + "/rootfs")
+shutil.copytree("fs", temp.name + "/rootfs")
 
 print("Compiling sys apps")
 # Read tbe workspace to figure out what crates there are
